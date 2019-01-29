@@ -1,5 +1,5 @@
 # gulplate-generator
-A generator for [gulplate](https://github.com/carlopaa/gulplate) - scaffolds a new gulplate project
+A generator for [Gulplate](https://github.com/carlopaa/gulplate) - scaffolds a new gulplate project
 
 ## Getting Started
 
@@ -11,4 +11,4 @@ run `gulplate` - this will ask some questions (project name, author, version etc
 
 ---
 
-For more information please visit [gulplate](https://github.com/carlopaa/gulplate).
+For more information please visit [Gulplate](https://github.com/carlopaa/gulplate).
