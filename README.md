@@ -1,10 +1,14 @@
 # gulplate-generator
-A generator for gulplate
+A generator for [gulplate](https://github.com/carlopaa/gulplate) - scaffolds a new gulplate project
 
 ## Getting Started
-- Install ```npm install gulplate-generator --global```
-- Run ```gulplate``` to scaffold a gulplate template
-- cd to your project folder (the project name you entered)
-- Run ```npm install```
-- Run ```npm run dev``` for development (localhost:3000)
-- Run ```npm run build``` for production
+
+#### Installation
+`npm install gulplate-generator --global`
+
+#### Creating a new project
+run `gulplate` - this will ask some questions (project name, author, version etc).
+
+---
+
+For more information please visit [gulplate](https://github.com/carlopaa/gulplate).
