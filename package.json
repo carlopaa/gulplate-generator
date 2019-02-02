@@ -1,6 +1,6 @@
 {
   "name": "gulplate-generator",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A generator for Gulplate",
   "main": "index.js",
   "repository": "carlopaa/gulplate-generator",
