@@ -1,13 +1,13 @@
 {
   "name": "gulplate-generator",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A generator for Gulplate",
   "main": "index.js",
   "repository": "carlopaa/gulplate-generator",
   "author": "Carlo Garcia Paa <dev@carlopaa.me>",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^6.2.1"
+    "inquirer": "^7.0.0"
   },
   "bin": {
     "gulplate": "./index.js"
